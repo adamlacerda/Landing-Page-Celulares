@@ -1,4 +1,4 @@
-# Landing-Page-Cell phones
+# Landing-Page-Mobile phones
 Landing Page Template with iPhone and Samsung
 Using HTML, CSS and JavaScript.
 
